@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anshpujara14
+- 👋 Hi, I’m Ansh Pujara
 - 👀 I’m interested in Spying on people's data and give them some meaningful insights about it.😁
 - 🌱 I’m currently learning Web Development 🕸 and Data Science 📊 to use both for another weird project that won't help me get a job
 - 💞️ I’m looking to collaborate on All types of project (would love to if they are related to 🕸 and 📊)
